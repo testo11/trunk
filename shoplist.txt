@@ -1,0 +1,6 @@
+shoe
+lock
+drum
+ribs
+wand
+seed
