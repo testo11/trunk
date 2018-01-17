@@ -11,3 +11,8 @@ seed
 
 david
 catrin
+
+
+mole
+patrik
+kino
