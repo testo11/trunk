@@ -1,3 +1,5 @@
+add killist
+
 shoe
 lock
 drum
@@ -6,3 +8,6 @@ sweet
 wand
 mint
 seed
+
+david
+catrin
